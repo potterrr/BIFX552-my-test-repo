@@ -1,7 +1,7 @@
 # BIFX552
 Bioinformatics Applications I 
-**Key Discovery—using two asterisks here**
-*Using cigWin—using one asterisk here*
+## Key Discovery ##
+### Using cigWin ##
 
 When you down load files to your hard drive (e.g. in 
 Swcarpentry, on the setup lesson, we download a zip file called 
